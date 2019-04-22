@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\PacketExample\PacketExample\bin\Debug\PacketExample.exe.config
+C:\Users\anuwat\source\repos\PacketExample\PacketExample\bin\Debug\PacketExample.exe
+C:\Users\anuwat\source\repos\PacketExample\PacketExample\bin\Debug\PacketExample.pdb
+C:\Users\anuwat\source\repos\PacketExample\PacketExample\obj\Debug\PacketExample.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\PacketExample\PacketExample\obj\Debug\PacketExample.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\PacketExample\PacketExample\obj\Debug\PacketExample.exe
+C:\Users\anuwat\source\repos\PacketExample\PacketExample\obj\Debug\PacketExample.pdb
